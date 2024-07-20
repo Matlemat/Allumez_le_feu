@@ -8,7 +8,7 @@ Welcome to the **Allumez_le_feu** repository! This project simulates the spread 
     <img src="./Pictures/Example.jpg" alt="Example of a Fire" width="200"/>
 </p>
 
-This simulation models a forest where each cell can be in one of three states:
+This simulation models a forest where each cell can be in one of these states:
 - **Tree** 🌳 : (In multiple level of green : 🟩)
 - **Burning Tree** 🔥 (In two level of red : 🟥)
 - **Burned Tree** 🪵 (In grey)
