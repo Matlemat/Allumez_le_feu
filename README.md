@@ -4,7 +4,7 @@ Welcome to the **Forest Fire Cellular Automaton** repository! This project simul
 
 ## Overview
 
-
+<img src="./Pictures/Example.jpg" alt="Example of a Fire" width="200"/>
 
 This simulation models a forest where each cell can be in one of three states:
 - **Tree** 🌳 : (In multiple level of green : 🟩)
