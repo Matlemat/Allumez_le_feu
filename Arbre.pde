@@ -11,11 +11,7 @@ class Arbre extends Case {
         super(i0,j0);
         this.combustible = true;
 
-<<<<<<< HEAD
         this.duration = abs(randomGaussian()*100);
-=======
-        this.duration = abs(randomGaussian()*50);
->>>>>>> b449a8fe936b7ea926d71c1a9e80542c1860ddb0
         
         this.burning = false;
         this.intense = (random(0,10) > 3);
@@ -25,11 +21,7 @@ class Arbre extends Case {
     
     void update_color(){
         if (this.duration > 0 && !burning){
-<<<<<<< HEAD
              this.c = lerpColor(color(0,255,0), color(0,100,0), this.duration/(2*100));
-=======
-             this.c = lerpColor(color(0,255,0), color(0,100,0), this.duration/(2*50));
->>>>>>> b449a8fe936b7ea926d71c1a9e80542c1860ddb0
         }else{
             if (burning){
                 if (intense){this.c = color(127,0,0);}else{this.c = color(255,0,0);}

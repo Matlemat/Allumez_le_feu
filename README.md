@@ -28,15 +28,15 @@ The rules governing the spread of fire are simple yet powerful:
 
 ### Prerequisites
 
-- Java Development Kit (JDK)
 - Processing IDE
+- OR Java Development Kit (JDK)
 
 ### Installation
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/forest-fire-automaton.git
-    cd forest-fire-automaton
+    git clone https://github.com/Matlemat/Allumez_le_feu
+    cd Allumez_le_feu
     ```
 
 2. **Open the project in Processing**:
