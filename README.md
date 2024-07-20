@@ -1,6 +1,6 @@
 # Forest Fire Cellular Automaton
 
-Welcome to the **Forest Fire Cellular Automaton** repository! This project simulates the spread of fire through a forest using a cellular automaton model, implemented in Java with Processing. 🌲🔥
+Welcome to the **Allumez_le_feu** repository! This project simulates the spread of fire through a forest using a cellular automaton model, implemented in Java with Processing. 🌲🔥
 
 ## Overview
 
@@ -11,7 +11,8 @@ Welcome to the **Forest Fire Cellular Automaton** repository! This project simul
 This simulation models a forest where each cell can be in one of three states:
 - **Tree** 🌳 : (In multiple level of green : 🟩)
 - **Burning Tree** 🔥 (In two level of red : 🟥)
-- **Empty** 🌾 (In grey)
+- **Burned Tree** 🪵 (In grey)
+- **Empty** (or rock) 🪨 (In black : ⬛)
 
 The rules governing the spread of fire are simple yet powerful:
 1. A burning tree turns into an empty cell after some duration.
